@@ -18,8 +18,8 @@ To set up the bot for development or personal use, follow these steps:
    `pip install -r requirements.txt`
    
 3. Create an .env file to store your Telegram Bot Token and Collect API Key:
-   `TOKEN = your_telegram_bot_token
-   API = your_collectapi_key`
+   `TOKEN = your_telegram_bot_token`
+   `API = your_collectapi_key`
 
 ## Usage
 
